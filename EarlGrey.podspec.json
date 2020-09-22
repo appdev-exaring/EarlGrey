@@ -15,9 +15,6 @@
     "ios": "8.0"
   },
   "requires_arc": true,
-  "source": {
-    "http": "https://www.github.com/google/EarlGrey/releases/download/1.16.0/EarlGrey.zip"
-  },
   "frameworks": [
     "CoreData",
     "CoreFoundation",
@@ -33,9 +30,6 @@
     "EarlGrey/LICENSE",
     "EarlGrey/README.md"
   ],
-  "ios": {
-    "vendored_frameworks": "EarlGrey/EarlGrey.framework"
-  },
   "pod_target_xcconfig": {
     "FRAMEWORK_SEARCH_PATHS": "$(inherited) $(PLATFORM_DIR)/Developer/Library/Frameworks",
     "ENABLE_BITCODE": "NO",

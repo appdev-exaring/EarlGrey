@@ -16,7 +16,8 @@
   },
   "requires_arc": true,
   "source": {
-    "git": "https://github.com/appdev-exaring/EarlGrey.git", "branch": "ios-14-compatibility"
+    "git": "https://github.com/appdev-exaring/EarlGrey.git",
+    "branch": "ios-14-compatibility"
   },
   "frameworks": [
     "CoreData",

@@ -16,7 +16,7 @@
   },
   "requires_arc": true,
   "source": {
-    "http": "https://www.github.com/google/EarlGrey/releases/download/1.16.0/EarlGrey.zip"
+    "git": "https://github.com/appdev-exaring/EarlGrey.git", "branch": "ios-14-compatibility"
   },
   "frameworks": [
     "CoreData",
